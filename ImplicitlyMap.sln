@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplicitlyMap", "ImplicitlyMap\ImplicitlyMap.csproj", "{227C0DEE-1484-4C69-B89B-40A5E0632A76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitlyMap.Example", "ImplicitlyMap.Example\ImplicitlyMap.Example\ImplicitlyMap.Example.csproj", "{F4DB3F48-2574-46A9-AF17-9F9ECE0B4E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{227C0DEE-1484-4C69-B89B-40A5E0632A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227C0DEE-1484-4C69-B89B-40A5E0632A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227C0DEE-1484-4C69-B89B-40A5E0632A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227C0DEE-1484-4C69-B89B-40A5E0632A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4DB3F48-2574-46A9-AF17-9F9ECE0B4E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DB3F48-2574-46A9-AF17-9F9ECE0B4E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DB3F48-2574-46A9-AF17-9F9ECE0B4E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DB3F48-2574-46A9-AF17-9F9ECE0B4E90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {923B9B75-6496-47CC-BB5C-AEA266F4B257}
+	EndGlobalSection
+EndGlobal
